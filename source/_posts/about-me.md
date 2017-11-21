@@ -1,5 +1,5 @@
 ---
-title: about me
+title: 申延刚的简历
 date: 2017-11-21 15:36:08
 tags: life
 ---
