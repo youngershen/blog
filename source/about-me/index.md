@@ -34,7 +34,7 @@ GITHUB : [https://github.com/youngershen/](https://github.com/youngershen/)
 - 2015/01 - 2015/06 [北京四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
 - 2014/08 - 2014/12 [深圳四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
 - 2012/10 - 2014/07 [独立开发者](https://youngershen.github.io) PYTHON程序员 / C++程序员
-- 2012/08 - 2012/09 [北京智珠科技科技有限公司](http://www.178.com) WIN32程序员 / Lua 程序员
+- 2012/08 - 2012/09 [北京智珠网络科技有限公司](http://www.178.com) WIN32程序员 / Lua 程序员
 - 2012/05 - 2012/08 [北京爱微创想科技有限公司](http://appwill.com/) PYTHON程序员 / Lua 程序员 （实习）
 
 ## 教育背景
