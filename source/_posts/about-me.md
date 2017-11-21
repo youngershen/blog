@@ -10,7 +10,40 @@ tags: life
 
 性别 : 男
 
-生日 ： 1990/12/12
+生日 : 1990/12/12
+
+职业 : 独立开发者
+
+手机 : 13581921363
+
+微信 : younger-the-guy
+
+邮箱 : shenyangang@163.com
+
+GITHUB : [https://github.com/youngershen/](https://github.com/youngershen/)
+
+
+## 开源项目
+
+- [django-contrib-validator](https://github.com/django-fans/django-contrib-validator)
+
+- [meepow](https://github.com/django-fans/meepow)
+
+## 工作经历
+
+- 2015/9 - 至今 [北京万能青年科技有限公司](http://www.universalyouth.cn) 独立开发者
+- 2015/1 - 2015/6 [北京四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
+- 2014/8 - 2014/12 [深圳四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
+- 2012/10 - 2014/7 [独立开发者](https://youngershen.github.io) PYTHON程序员 / C++程序员
+- 2012/8 - 2012/9 [北京智珠科技科技有限公司](http://www.178.com) WIN32程序员 / Lua 程序员
+- 2012/5 - 2012/8 [北京爱微创想科技有限公司](http://appwill.com/) PYTHON程序员 / Lua 程序员 （实习）
+
+## 教育背景
+
+- 北京大学 计算机应用 自考本科
+- 河北软件职业技术学院 高职
+- 北京CSDN程序员培训 JAVA方向
+
 
 
 
