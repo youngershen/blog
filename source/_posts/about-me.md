@@ -1,9 +1,16 @@
 ---
-title: about-me
+title: about me
 date: 2017-11-21 15:36:08
 tags: life
 ---
 
-# ABOUT ME
+## 个人信息
 
-name : Younger Shen
+姓名 : 申延刚
+
+性别 : 男
+
+生日 ： 1990/12/12
+
+
+
