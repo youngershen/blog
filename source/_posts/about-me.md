@@ -31,12 +31,12 @@ GITHUB : [https://github.com/youngershen/](https://github.com/youngershen/)
 
 ## 工作经历
 
-- 2015/9 - 至今 [北京万能青年科技有限公司](http://www.universalyouth.cn) 独立开发者
-- 2015/1 - 2015/6 [北京四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
-- 2014/8 - 2014/12 [深圳四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
-- 2012/10 - 2014/7 [独立开发者](https://youngershen.github.io) PYTHON程序员 / C++程序员
-- 2012/8 - 2012/9 [北京智珠科技科技有限公司](http://www.178.com) WIN32程序员 / Lua 程序员
-- 2012/5 - 2012/8 [北京爱微创想科技有限公司](http://appwill.com/) PYTHON程序员 / Lua 程序员 （实习）
+- 2015/09 - 至今 [北京万能青年科技有限公司](http://www.universalyouth.cn) 独立开发者
+- 2015/01 - 2015/06 [北京四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
+- 2014/08 - 2014/12 [深圳四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
+- 2012/10 - 2014/07 [独立开发者](https://youngershen.github.io) PYTHON程序员 / C++程序员
+- 2012/08 - 2012/09 [北京智珠科技科技有限公司](http://www.178.com) WIN32程序员 / Lua 程序员
+- 2012/05 - 2012/08 [北京爱微创想科技有限公司](http://appwill.com/) PYTHON程序员 / Lua 程序员 （实习）
 
 ## 教育背景
 
