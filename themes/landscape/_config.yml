@@ -2,6 +2,10 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about-me
+  Projects: /projects
+  Books: /books
+
 rss: /atom.xml
 
 # Content
