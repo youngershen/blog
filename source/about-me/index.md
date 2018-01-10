@@ -30,7 +30,7 @@ GITHUB : [https://github.com/youngershen/](https://github.com/youngershen/)
 
 ## 工作经历
 
-- 2015/09 - 至今 [北京万能青年科技有限公司](http://www.universalyouth.cn) 独立开发者
+- 2015/09 - 至今 自由职业者
 - 2015/01 - 2015/06 [北京四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
 - 2014/08 - 2014/12 [深圳四海道达网络科技有限公司](http://www.acttao.com) PYTHON程序员
 - 2012/10 - 2014/07 [独立开发者](https://youngershen.github.io) PYTHON程序员 / C++程序员
