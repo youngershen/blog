@@ -1,5 +1,5 @@
 ---
-title: ideas
+title: 想法
 date: 2017-11-22 16:38:09
 ---
 
