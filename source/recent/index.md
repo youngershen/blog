@@ -5,9 +5,11 @@ date: 2018-04-20 14:27:33
 
 ## 摘要
 
-1. 完成 HHCms 第一个版本的开发工作。
-
-2. 出一整套针对非专业人士的 PYTHON WEB 开发教程。
+* 完成 HHCms 第一个版本的开发工作。
+* 出一整套针对非专业人士的 PYTHON WEB 开发教程。
+* SELENIUM 爬虫相关的帖子。
+* 根据 操作系统精髓与设计原理 第 10 页的叙述，实现一个用于学习的 最简单的 CPU 模拟器。
+* django-easy-validator, django-wechat, wechat.py 这几个包的维护工作。
 
 
 ## 备注
